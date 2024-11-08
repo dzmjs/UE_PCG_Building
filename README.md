@@ -1,7 +1,7 @@
 # UE_PCG_Building
 This Unreal Engine project introduces a smart asset designed for dynamic building generation. Leveraging procedural content generation (PCG), the asset can adjust building width, length, and number of floors in real-time, making it versatile for various game environments. 
 ## Preview
-![effect]("./20241108115038.png")
+![effect](20241108115038.png)
 
 ## Requirement
  - UE version > 5.3 (recommended version:5.4.4)
